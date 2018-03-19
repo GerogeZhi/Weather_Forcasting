@@ -1,0 +1,13 @@
+要素ID                        要素中文含义                  要素单位                      要素类型                      要素值范围                    特征值                        特征值说明                    
+Station_Id_C                  区站号/观测平台标识 (字符)    字符                          Decimal                                                                                   
+Year_Data                     年(资料时间)                  年                            Decimal                                                                                   
+Mon_Data                      月(资料时间)                  月                            Decimal                                                                                   
+Day_Data                      日(资料时间)                  日                            Decimal                                                                                   
+Hour_Data                     时(资料时间)                  时                            Decimal                                                                                   
+PRS                           气压                          百帕                          Decimal                                                                                   
+PRS_Sea                       海平面气压                    百帕                          Decimal                                                                                   
+WIN_D                         风向                          度                            Decimal                                                                                   
+WIN_S                         风速                          米/秒                         Decimal                                                                                   
+TEM                           温度/气温                     摄氏度(℃)                    Decimal                                                                                   
+RHU                           相对湿度                      百分率                        Decimal                                                                                   
+PRE_1h                        降水量                        毫米                          Decimal                                                                                   
